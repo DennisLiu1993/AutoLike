@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio 2019 cache/options directory
+.vs/
+*.sdf
+bin/
+obj/
+Debug/
+Release/
+Debug_4X/
+Release_4X/
+*.opensdf
+*.tlog
+*.log
+*.idb
+*.pdb
+*.aps
+*.md
